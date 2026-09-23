@@ -1,1 +1,30 @@
-# Jolleria-Diamond
+# JOLLERIA DIAMOND
+
+##DESCRIPCION 
+APLICACION WEB 
+
+
+## OBJETIVO
+DESARROLLAR
+
+## FUNCIONALIDADES
+-[] Crud Clientes
+-[] Crud Productos
+-[] Crud Ofertas
+-[] Carrito
+-[] Pagos
+
+## EQUIPO DE DESARROLLO
++ DESARROLLADOR 1
++ DESARROLLADOR 2
++ DESARROLLADOR 3
+
+## PILA TECNOLOGICA
++ Lenguaje
++ Framework
++ BD
++ Editor
+
+## FECHAS
++ Inicio
++ Fin
